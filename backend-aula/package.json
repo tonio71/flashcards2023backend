@@ -10,6 +10,7 @@
     "uuid": "8.3.2"
   },
   "scripts": {
+    "start": "json-server --watch flashcards.json --port 3000",
     "server": "json-server --watch flashcards.json --port 3001"
   }
 }
